@@ -1,26 +1,7 @@
-# bootcamp-I
-criando repositorio para a disciplina
+👨‍💻 Estudante de Ciência da Computação | 🚀 Aprendiz de Desenvolvimento de Software | ✨ Apaixonado por Tecnologia e Inovação
 
-#include <stdio.h>
+Olá! Sou Felipe antonio, estudante de Ciência da Computação focado em aprimorar minhas habilidades em programação, algoritmos e desenvolvimento de software.
 
-int main() {
-    float num1, num2, num3, media;
-    
-    // Solicita os números ao usuário
-    printf("Digite três números para calcular a média:\n");
-    printf("Primeiro número: ");
-    scanf("%f", &num1);
-    printf("Segundo número: ");
-    scanf("%f", &num2);
-    printf("Terceiro número: ");
-    scanf("%f", &num3);
-    
-    // Calcula a média
-    media = (num1 + num2 + num3) / 3;
-    
-    // Exibe o resultado
-    printf("\nA média dos números %.2f, %.2f e %.2f é: %.2f\n", 
-           num1, num2, num3, media);
-    
-    return 0;
-}
+🔧 Tecnologia que Estudo e Utilizo: C++ 
+
+👉 contatos (https://www.linkedin.com/in/felipe-antonio-moraes-alvarenga-b6a16a365/) | ✉ E-mail: Felipe.antonio@sempreceub.com
